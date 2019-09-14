@@ -25,7 +25,7 @@ function CardList() {
         <div className="col-sm-4">
           <Card     
             featureImage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCWhlCmxksZS8kDyt54P85-tlhbgkD9pD-W1czoxcWDIH_mHZ"
-            title="How To Make Interactive ReactJS Form"
+            title="Vinyard"
             location="NY"
             description="Help us start a small vinyard in upsatate NY"
             link="https://sebhastian.com/interactive-react-form"
