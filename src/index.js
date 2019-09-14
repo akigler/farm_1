@@ -49,15 +49,6 @@ function CardList() {
             link="#"
           />
         </div>
-        <div className="col-sm-4">
-          <Card     
-            featureImage="https://wiki.aalto.fi/download/attachments/95754650/1.png?api=v2"
-            title="Community Arduino Hydroponics project"
-            location="CA"
-            description="community based project teaching kids about hydroponics"
-            link="#"
-          />
-        </div>
       </div>
     );
   }
